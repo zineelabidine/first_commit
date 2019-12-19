@@ -5,4 +5,12 @@ public class Employe(){
     private String mail;
     private String adresse;
 
+    private int age;
+/*
+*Constructeur
+*/
+
+    public Employe(){
+
+    }
 }
