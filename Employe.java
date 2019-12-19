@@ -3,4 +3,5 @@ public class Employe(){
     private String name;
     private Strine prenom;
     private String mail;
+    private int age;
 }
