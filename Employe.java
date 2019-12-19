@@ -4,4 +4,11 @@ public class Employe(){
     private Strine prenom;
     private String mail;
     private int age;
+/*
+*Constructeur
+*/
+
+    public Employe(){
+
+    }
 }
